@@ -44,9 +44,8 @@ Create comprehensive PR description with sections:
 - Extracted from file changes and commits
 
 ## Testing
-How to test these changes:
+How to test these changes if more than automatic CI tests are needed:
 - Step-by-step instructions
-- Or: "See test files added in this PR"
 
 ## Additional Notes
 [Any other context or notes]
